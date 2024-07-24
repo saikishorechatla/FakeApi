@@ -8,6 +8,16 @@ app.use(express.json())
 const cats = require('./routes/cats')
 const countries = require('./routes/countries')
 const langs = require('./routes/langs')
+const fs = require('fs')
+
+
+app.use(express.static('./htmls'))
+app.get('/',(req,res)=>{
+    fs.readFile('./htmls/index.html',(err,result)=>{
+        if(err) return res.status(404).json({message:'not found' })
+            res.status(200).send(result)
+    })
+})
 
 
 app.use('/api/cats',cats)
