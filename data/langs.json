@@ -1,0 +1,1203 @@
+[
+    {
+        "id": 1,
+        "name": "English",
+        "speakers": "1.35 billion",
+        "region": "Worldwide",
+        "script": "Latin script",
+        "family": "Indo-European",
+        "notes": "Widely used as a global lingua franca.",
+        "officialStatus": "Official in many countries and international organizations.",
+        "languageCode": "en",
+        "dialects": [
+            "American English",
+            "British English",
+            "Australian English",
+            "Canadian English"
+        ],
+        "relatedLanguages": [
+            "German",
+            "Dutch",
+            "French"
+        ],
+        "languageHistory": "Evolved from Germanic languages and influenced by Latin and French.",
+        "writingSystem": "Alphabet with 26 letters.",
+        "languageStatus": "One of the most influential languages in the fields of business, science, and culture."
+    },
+    {
+        "id": 2,
+        "name": "Mandarin Chinese",
+        "speakers": "1.12 billion",
+        "region": "China, Taiwan, Singapore",
+        "script": "Simplified Chinese characters",
+        "family": "Sino-Tibetan",
+        "notes": "Most widely spoken language in the world.",
+        "officialStatus": "Official language of China, Taiwan, and Singapore.",
+        "languageCode": "zh",
+        "dialects": [
+            "Standard Mandarin",
+            "Cantonese",
+            "Shanghainese"
+        ],
+        "relatedLanguages": [
+            "Cantonese",
+            "Hakka",
+            "Wu"
+        ],
+        "languageHistory": "Ancient language with a long history; various dialects and scripts.",
+        "writingSystem": "Logographic characters representing words and concepts.",
+        "languageStatus": "Critical in business and trade due to China's economic influence."
+    },
+    {
+        "id": 3,
+        "name": "Hindi",
+        "speakers": "600 million",
+        "region": "India, Nepal",
+        "script": "Devanagari script",
+        "family": "Indo-European",
+        "notes": "Official language of India.",
+        "officialStatus": "Official language of India and co-official language in several states.",
+        "languageCode": "hi",
+        "dialects": [
+            "Bhojpuri",
+            "Rajasthani",
+            "Awadhi"
+        ],
+        "relatedLanguages": [
+            "Urdu",
+            "Sanskrit",
+            "Bengali"
+        ],
+        "languageHistory": "Evolved from ancient Indian languages; rich literary tradition.",
+        "writingSystem": "Script with 46 characters used to represent sounds and syllables.",
+        "languageStatus": "Cultural and historical significance in Indian literature and philosophy."
+    },
+    {
+        "id": 4,
+        "name": "Spanish",
+        "speakers": "460 million",
+        "region": "Spain, Latin America",
+        "script": "Latin script",
+        "family": "Indo-European",
+        "notes": "Second most spoken language in the world by native speakers.",
+        "officialStatus": "Official language in numerous countries across Europe, Latin America, and Africa.",
+        "languageCode": "es",
+        "dialects": [
+            "Castilian",
+            "Andalusian",
+            "Mexican Spanish"
+        ],
+        "relatedLanguages": [
+            "Portuguese",
+            "Italian",
+            "French"
+        ],
+        "languageHistory": "Derived from Latin; evolved into distinct regional dialects.",
+        "writingSystem": "Alphabet with 27 letters, including ñ.",
+        "languageStatus": "Significant cultural influence through literature, music, and film."
+    },
+    {
+        "id": 5,
+        "name": "Bengali",
+        "speakers": "250 million",
+        "region": "Bangladesh, India",
+        "script": "Bengali script",
+        "family": "Indo-European",
+        "notes": "Official language of Bangladesh and one of India's 22 scheduled languages.",
+        "officialStatus": "Official language of Bangladesh and several states in India.",
+        "languageCode": "bn",
+        "dialects": [
+            "Chittagonian",
+            "Sylheti",
+            "Rohingya"
+        ],
+        "relatedLanguages": [
+            "Assamese",
+            "Oriya",
+            "Maithili"
+        ],
+        "languageHistory": "Rich literary heritage with contributions to poetry and music.",
+        "writingSystem": "Script with 46 characters representing sounds and syllables.",
+        "languageStatus": "Cultural significance in literature, music, and arts."
+    },
+    {
+        "id": 6,
+        "name": "Arabic",
+        "speakers": "310 million",
+        "region": "Middle East, North Africa",
+        "script": "Arabic script",
+        "family": "Afroasiatic",
+        "notes": "Sacred language of Islam and used for religious texts.",
+        "officialStatus": "Official language in numerous countries across the Middle East and North Africa.",
+        "languageCode": "ar",
+        "dialects": [
+            "Egyptian Arabic",
+            "Levantine Arabic",
+            "Gulf Arabic"
+        ],
+        "relatedLanguages": [
+            "Hebrew",
+            "Aramaic",
+            "Amharic"
+        ],
+        "languageHistory": "Ancient language with contributions to philosophy, science, and literature.",
+        "writingSystem": "Script with 28 letters written from right to left.",
+        "languageStatus": "Significant in religious, cultural, and diplomatic contexts."
+    },
+    {
+        "id": 7,
+        "name": "Russian",
+        "speakers": "258 million",
+        "region": "Russia, Eastern Europe",
+        "script": "Cyrillic script",
+        "family": "Indo-European",
+        "notes": "Widely spoken in Russia and neighboring countries.",
+        "officialStatus": "Official language of Russia and several other countries in the former Soviet Union.",
+        "languageCode": "ru",
+        "dialects": [
+            "Belarusian",
+            "Ukrainian",
+            "Kazakh"
+        ],
+        "relatedLanguages": [
+            "Ukrainian",
+            "Belarusian",
+            "Bulgarian"
+        ],
+        "languageHistory": "Developed from Old East Slavic and influenced by other languages.",
+        "writingSystem": "Cyrillic alphabet with 33 characters.",
+        "languageStatus": "Cultural influence in literature, music, and science."
+    },
+    {
+        "id": 8,
+        "name": "Portuguese",
+        "speakers": "258 million",
+        "region": "Portugal, Brazil",
+        "script": "Latin script",
+        "family": "Indo-European",
+        "notes": "Official language in several countries and spoken in various parts of the world.",
+        "officialStatus": "Official language of Portugal, Brazil, and several other countries.",
+        "languageCode": "pt",
+        "dialects": [
+            "European Portuguese",
+            "Brazilian Portuguese",
+            "African Portuguese"
+        ],
+        "relatedLanguages": [
+            "Spanish",
+            "Galician",
+            "Catalan"
+        ],
+        "languageHistory": "Derived from Latin with influences from other languages.",
+        "writingSystem": "Alphabet with 26 letters and diacritics.",
+        "languageStatus": "Cultural significance in literature, music, and exploration."
+    },
+    {
+        "id": 9,
+        "name": "Japanese",
+        "speakers": "128 million",
+        "region": "Japan",
+        "script": "Kanji, Hiragana, Katakana",
+        "family": "Japonic",
+        "notes": "Official language of Japan and integral to its culture.",
+        "officialStatus": "Official language of Japan.",
+        "languageCode": "ja",
+        "dialects": [
+            "Tokyo dialect",
+            "Osaka dialect",
+            "Kyoto dialect"
+        ],
+        "relatedLanguages": [
+            "Korean",
+            "Ryukyuan languages",
+            "Ainu"
+        ],
+        "languageHistory": "Unique language with a complex writing system and influences from Chinese.",
+        "writingSystem": "Mix of logographic Kanji characters and syllabic Hiragana and Katakana.",
+        "languageStatus": "Integral to Japanese culture, literature, and media."
+    },
+    {
+        "id": 10,
+        "name": "Punjabi",
+        "speakers": "125 million",
+        "region": "Punjab region (India, Pakistan)",
+        "script": "Gurmukhi (India), Shahmukhi (Pakistan)",
+        "family": "Indo-European",
+        "notes": "Official language in Punjab regions of India and Pakistan.",
+        "officialStatus": "Official language of Punjab in India and Punjab province in Pakistan.",
+        "languageCode": "pa",
+        "dialects": [
+            "Majhi",
+            "Doabi",
+            "Malwai"
+        ],
+        "relatedLanguages": [
+            "Hindi",
+            "Urdu",
+            "Sindhi"
+        ],
+        "languageHistory": "Developed from Sanskrit with influences from various languages.",
+        "writingSystem": "Gurmukhi script in India, Shahmukhi script in Pakistan.",
+        "languageStatus": "Cultural significance in music, literature, and religious texts."
+    },
+    {
+        "id": 11,
+        "name": "German",
+        "speakers": "90 million",
+        "region": "Germany, Austria, Switzerland",
+        "script": "Latin script",
+        "family": "Indo-European",
+        "notes": "Official language in multiple European countries.",
+        "officialStatus": "Official language in Germany, Austria, Switzerland, and more.",
+        "languageCode": "de",
+        "dialects": [
+            "Standard German",
+            "Austrian German",
+            "Swiss German"
+        ],
+        "relatedLanguages": [
+            "Dutch",
+            "English",
+            "Yiddish"
+        ],
+        "languageHistory": "Evolved from Old High German; notable for its influence on philosophy and literature.",
+        "writingSystem": "Alphabet with 26 letters.",
+        "languageStatus": "Significant cultural impact through literature, philosophy, and science."
+    },
+    {
+        "id": 12,
+        "name": "Javanese",
+        "speakers": "84 million",
+        "region": "Indonesia",
+        "script": "Javanese script, Latin script",
+        "family": "Austronesian",
+        "notes": "Major language in Indonesia and important in cultural expressions.",
+        "officialStatus": "No official status, but widely spoken in Java, Indonesia's most populous island.",
+        "languageCode": "jv",
+        "dialects": [
+            "Central Javanese",
+            "Eastern Javanese",
+            "Western Javanese"
+        ],
+        "relatedLanguages": [
+            "Balinese",
+            "Sundanese",
+            "Madurese"
+        ],
+        "languageHistory": "Ancient language with rich literary heritage and historical importance.",
+        "writingSystem": "Javanese script and Latin script for modern use.",
+        "languageStatus": "Significant in traditional arts, literature, and ceremonies."
+    },
+    {
+        "id": 13,
+        "name": "Wu Chinese",
+        "speakers": "81 million",
+        "region": "China",
+        "script": "Simplified Chinese characters",
+        "family": "Sino-Tibetan",
+        "notes": "Major dialect group within Chinese language.",
+        "officialStatus": "No official status, but widely spoken in Shanghai and surrounding areas.",
+        "languageCode": "wuu",
+        "dialects": [
+            "Shanghainese",
+            "Suzhounese",
+            "Hangzhounese"
+        ],
+        "relatedLanguages": [
+            "Mandarin Chinese",
+            "Cantonese",
+            "Min Chinese"
+        ],
+        "languageHistory": "Evolved from Old Chinese; retains unique characteristics.",
+        "writingSystem": "Simplified characters common in China.",
+        "languageStatus": "Cultural importance in trade and literature."
+    },
+    {
+        "id": 14,
+        "name": "Korean",
+        "speakers": "77 million",
+        "region": "Korea, Northeast China",
+        "script": "Hangul",
+        "family": "Koreanic",
+        "notes": "Official language of both South Korea and North Korea.",
+        "officialStatus": "Official language of South Korea and North Korea.",
+        "languageCode": "ko",
+        "dialects": [
+            "Seoul dialect",
+            "Pyongyang dialect",
+            "Busan dialect"
+        ],
+        "relatedLanguages": [
+            "Jeju",
+            "Baekje",
+            "Goguryeo"
+        ],
+        "languageHistory": "Isolated language with an alphabet created in the 15th century.",
+        "writingSystem": "Hangul alphabet with 24 letters.",
+        "languageStatus": "Integral to Korean culture, arts, and technology."
+    },
+    {
+        "id": 15,
+        "name": "French",
+        "speakers": "76 million",
+        "region": "France, various countries",
+        "script": "Latin script",
+        "family": "Indo-European",
+        "notes": "Official language in many international organizations.",
+        "officialStatus": "Official language in multiple countries and international institutions.",
+        "languageCode": "fr",
+        "dialects": [
+            "Parisian French",
+            "Quebec French",
+            "African French"
+        ],
+        "relatedLanguages": [
+            "Spanish",
+            "Italian",
+            "Portuguese"
+        ],
+        "languageHistory": "Evolved from Latin; significant in literature and diplomacy.",
+        "writingSystem": "Alphabet with 26 letters.",
+        "languageStatus": "Cultural significance through arts, philosophy, and diplomacy."
+    },
+    {
+        "id": 16,
+        "name": "Telugu",
+        "speakers": "75 million",
+        "region": "India",
+        "script": "Telugu script",
+        "family": "Dravidian",
+        "notes": "Major South Indian language with rich literature.",
+        "officialStatus": "Official language in Andhra Pradesh and Telangana states.",
+        "languageCode": "te",
+        "dialects": [
+            "Coastal Andhra",
+            "Rayalaseema",
+            "Telangana"
+        ],
+        "relatedLanguages": [
+            "Tamil",
+            "Kannada",
+            "Malayalam"
+        ],
+        "languageHistory": "Ancient language with classical literature and cultural significance.",
+        "writingSystem": "Telugu script with syllables and characters.",
+        "languageStatus": "Cultural importance in literature, arts, and film."
+    },
+    {
+        "id": 17,
+        "name": "Marathi",
+        "speakers": "73 million",
+        "region": "India",
+        "script": "Devanagari script",
+        "family": "Indo-European",
+        "notes": "Official language of Maharashtra state.",
+        "officialStatus": "Official language of Maharashtra state.",
+        "languageCode": "mr",
+        "dialects": [
+            "Standard Marathi",
+            "Varhadi",
+            "Konkani Marathi"
+        ],
+        "relatedLanguages": [
+            "Hindi",
+            "Gujarati",
+            "Konkani"
+        ],
+        "languageHistory": "Evolved from Maharashtri Prakrit; rich literary heritage.",
+        "writingSystem": "Script with 46 characters used to represent sounds and syllables.",
+        "languageStatus": "Significant in literature, theater, and regional identity."
+    },
+    {
+        "id": 18,
+        "name": "Tamil",
+        "speakers": "70 million",
+        "region": "India, Sri Lanka, Singapore",
+        "script": "Tamil script",
+        "family": "Dravidian",
+        "notes": "Classical language with a rich literary tradition.",
+        "officialStatus": "Official language in Tamil Nadu state and Sri Lanka.",
+        "languageCode": "ta",
+        "dialects": [
+            "Iyengar Tamil",
+            "Kongu Tamil",
+            "Sri Lankan Tamil"
+        ],
+        "relatedLanguages": [
+            "Telugu",
+            "Kannada",
+            "Malayalam"
+        ],
+        "languageHistory": "One of the oldest languages; classical literature and cultural heritage.",
+        "writingSystem": "Tamil script with characters for syllables.",
+        "languageStatus": "Cultural and historical significance in literature and arts."
+    },
+    {
+        "id": 19,
+        "name": "Turkish",
+        "speakers": "70 million",
+        "region": "Turkey, Cyprus",
+        "script": "Latin script",
+        "family": "Turkic",
+        "notes": "Significant in the history and culture of Turkey.",
+        "officialStatus": "Official language of Turkey and co-official in Cyprus.",
+        "languageCode": "tr",
+        "dialects": [
+            "Istanbul Turkish",
+            "Anatolian Turkish",
+            "Cypriot Turkish"
+        ],
+        "relatedLanguages": [
+            "Azeri",
+            "Uzbek",
+            "Kazakh"
+        ],
+        "languageHistory": "Evolved from Oghuz Turkic; influenced by Arabic and Persian.",
+        "writingSystem": "Latin alphabet with special characters.",
+        "languageStatus": "Cultural and historical importance in Turkey's identity."
+    },
+    {
+        "id": 20,
+        "name": "Urdu",
+        "speakers": "66 million",
+        "region": "Pakistan, India",
+        "script": "Perso-Arabic script",
+        "family": "Indo-European",
+        "notes": "Significant as the lingua franca in South Asia.",
+        "officialStatus": "Official language of Pakistan and co-official in some Indian states.",
+        "languageCode": "ur",
+        "dialects": [
+            "Standard Urdu",
+            "Dakhini",
+            "Rekhta"
+        ],
+        "relatedLanguages": [
+            "Hindi",
+            "Punjabi",
+            "Pashto"
+        ],
+        "languageHistory": "Evolved from various languages with Persian and Arabic influence.",
+        "writingSystem": "Perso-Arabic script with additional characters.",
+        "languageStatus": "Cultural and literary significance in poetry and literature."
+    },
+    {
+        "id": 21,
+        "name": "Italian",
+        "speakers": "63 million",
+        "region": "Italy, Switzerland",
+        "script": "Latin script",
+        "family": "Indo-European",
+        "notes": "Significant in the arts, culture, and history of Italy.",
+        "officialStatus": "Official language in Italy and an official language of Switzerland.",
+        "languageCode": "it",
+        "dialects": [
+            "Tuscan",
+            "Sicilian",
+            "Venetian"
+        ],
+        "relatedLanguages": [
+            "Spanish",
+            "French",
+            "Portuguese"
+        ],
+        "languageHistory": "Evolved from Latin with influences from various regional dialects.",
+        "writingSystem": "Alphabet with 21 letters.",
+        "languageStatus": "Cultural and artistic impact in literature, opera, and design."
+    },
+    {
+        "id": 22,
+        "name": "Gujarati",
+        "speakers": "62 million",
+        "region": "India",
+        "script": "Gujarati script",
+        "family": "Indo-European",
+        "notes": "Prominent language in the Indian state of Gujarat.",
+        "officialStatus": "Official language of Gujarat state.",
+        "languageCode": "gu",
+        "dialects": [
+            "Standard Gujarati",
+            "Kutchi",
+            "Surati"
+        ],
+        "relatedLanguages": [
+            "Hindi",
+            "Marathi",
+            "Sindhi"
+        ],
+        "languageHistory": "Evolved from Old Gujarati; rich history in trade and literature.",
+        "writingSystem": "Gujarati script with characters representing sounds and syllables.",
+        "languageStatus": "Cultural importance in literature, drama, and music."
+    },
+    {
+        "id": 23,
+        "name": "Polish",
+        "speakers": "46 million",
+        "region": "Poland",
+        "script": "Latin script",
+        "family": "Indo-European",
+        "notes": "Official language of Poland and integral to its history.",
+        "officialStatus": "Official language of Poland.",
+        "languageCode": "pl",
+        "dialects": [
+            "Greater Polish",
+            "Lesser Polish",
+            "Masovian"
+        ],
+        "relatedLanguages": [
+            "Czech",
+            "Slovak",
+            "Russian"
+        ],
+        "languageHistory": "Evolved from Old Polish; cultural significance in literature and science.",
+        "writingSystem": "Alphabet with 32 letters and diacritics.",
+        "languageStatus": "Cultural importance in literature, poetry, and philosophy."
+    },
+    {
+        "id": 24,
+        "name": "Ukrainian",
+        "speakers": "42 million",
+        "region": "Ukraine",
+        "script": "Cyrillic script",
+        "family": "Indo-European",
+        "notes": "Official language of Ukraine and vital to its cultural identity.",
+        "officialStatus": "Official language of Ukraine.",
+        "languageCode": "uk",
+        "dialects": [
+            "Central Ukrainian",
+            "Northern Ukrainian",
+            "Western Ukrainian"
+        ],
+        "relatedLanguages": [
+            "Russian",
+            "Belarusian",
+            "Polish"
+        ],
+        "languageHistory": "Evolved from Old East Slavic; cultural importance in literature and arts.",
+        "writingSystem": "Cyrillic alphabet with special characters.",
+        "languageStatus": "Cultural significance in literature, folklore, and identity."
+    },
+    {
+        "id": 25,
+        "name": "Bhojpuri",
+        "speakers": "39 million",
+        "region": "India, Nepal",
+        "script": "Devanagari script",
+        "family": "Indo-European",
+        "notes": "Prominent language in northern India and Terai region of Nepal.",
+        "officialStatus": "Recognized language in India and Nepal.",
+        "languageCode": "bho",
+        "dialects": [
+            "Standard Bhojpuri",
+            "Fijian Bhojpuri",
+            "Caribbean Bhojpuri"
+        ],
+        "relatedLanguages": [
+            "Hindi",
+            "Bihari",
+            "Maithili"
+        ],
+        "languageHistory": "Evolved from Magahi Prakrit; significant in literature and folk songs.",
+        "writingSystem": "Devanagari script with characters representing sounds and syllables.",
+        "languageStatus": "Cultural significance in music, theater, and local media."
+    },
+    {
+        "id": 26,
+        "name": "Tagalog",
+        "speakers": "38 million",
+        "region": "Philippines",
+        "script": "Latin script",
+        "family": "Austronesian",
+        "notes": "Official language of the Philippines.",
+        "officialStatus": "Official language of the Philippines.",
+        "languageCode": "tl",
+        "dialects": [
+            "Manila Tagalog",
+            "Bulacan Tagalog",
+            "Batangas Tagalog"
+        ],
+        "relatedLanguages": [
+            "Cebuano",
+            "Ilocano",
+            "Waray"
+        ],
+        "languageHistory": "Austronesian language with influences from Spanish and English.",
+        "writingSystem": "Latin script with additional characters for sounds unique to Tagalog.",
+        "languageStatus": "Cultural significance in Philippine literature and media."
+    },
+    {
+        "id": 27,
+        "name": "Yoruba",
+        "speakers": "38 million",
+        "region": "Nigeria, Benin, Togo",
+        "script": "Latin script",
+        "family": "Niger-Congo",
+        "notes": "Major West African language with cultural importance.",
+        "officialStatus": "Recognized language in Nigeria and Benin.",
+        "languageCode": "yo",
+        "dialects": [
+            "Ibadan Yoruba",
+            "Ijesha Yoruba",
+            "Oyo Yoruba"
+        ],
+        "relatedLanguages": [
+            "Igbo",
+            "Hausa",
+            "Edo"
+        ],
+        "languageHistory": "Niger-Congo language with diverse dialects; rich in proverbs and songs.",
+        "writingSystem": "Latin script with additional diacritics.",
+        "languageStatus": "Cultural significance in religion, music, and literature."
+    },
+    {
+        "id": 28,
+        "name": "Maithili",
+        "speakers": "35 million",
+        "region": "India, Nepal",
+        "script": "Devanagari script",
+        "family": "Indo-European",
+        "notes": "Prominent language in the Mithila region of India and Nepal.",
+        "officialStatus": "Recognized language in India and Nepal.",
+        "languageCode": "mai",
+        "dialects": [
+            "Standard Maithili",
+            "Tharu Maithili",
+            "Madhubani Maithili"
+        ],
+        "relatedLanguages": [
+            "Bhojpuri",
+            "Magahi",
+            "Awadhi"
+        ],
+        "languageHistory": "Evolved from Magahi Prakrit; significant in literature and folk culture.",
+        "writingSystem": "Devanagari script with characters representing sounds and syllables.",
+        "languageStatus": "Cultural importance in traditional music, dance, and festivals."
+    },
+    {
+        "id": 29,
+        "name": "Uzbek",
+        "speakers": "33 million",
+        "region": "Uzbekistan, Central Asia",
+        "script": "Latin script, Cyrillic script",
+        "family": "Turkic",
+        "notes": "Official language of Uzbekistan and integral to Central Asian identity.",
+        "officialStatus": "Official language of Uzbekistan.",
+        "languageCode": "uz",
+        "dialects": [
+            "Northern Uzbek",
+            "Southern Uzbek",
+            "Khorezmian Uzbek"
+        ],
+        "relatedLanguages": [
+            "Kazakh",
+            "Uighur",
+            "Turkmen"
+        ],
+        "languageHistory": "Turkic language with historical influences from Persian and Arabic.",
+        "writingSystem": "Transitioned from Cyrillic to Latin script.",
+        "languageStatus": "Cultural significance in literature, music, and poetry."
+    },
+    {
+        "id": 30,
+        "name": "Odia",
+        "speakers": "33 million",
+        "region": "India",
+        "script": "Odia script",
+        "family": "Indo-European",
+        "notes": "Official language of Odisha state, India.",
+        "officialStatus": "Official language of Odisha state.",
+        "languageCode": "or",
+        "dialects": [
+            "Standard Odia",
+            "Southern Odia",
+            "Northern Odia"
+        ],
+        "relatedLanguages": [
+            "Bengali",
+            "Assamese",
+            "Maithili"
+        ],
+        "languageHistory": "Evolved from Magadhi Prakrit; rich literature and cultural heritage.",
+        "writingSystem": "Odia script with characters representing sounds and syllables.",
+        "languageStatus": "Cultural significance in literature, arts, and traditions."
+    },
+    {
+        "id": 31,
+        "name": "Amharic",
+        "speakers": "32 million",
+        "region": "Ethiopia, Eritrea",
+        "script": "Ge'ez script",
+        "family": "Afroasiatic",
+        "notes": "Official language of Ethiopia and integral to its culture.",
+        "officialStatus": "Official language of Ethiopia.",
+        "languageCode": "am",
+        "dialects": [
+            "Gurage",
+            "Wolaytta",
+            "Tigray"
+        ],
+        "relatedLanguages": [
+            "Tigrinya",
+            "Ge'ez",
+            "Afar"
+        ],
+        "languageHistory": "Semitic language with a long history; Ge'ez script used for religious texts.",
+        "writingSystem": "Ge'ez script with syllabic characters.",
+        "languageStatus": "Cultural significance in literature, religion, and identity."
+    },
+    {
+        "id": 32,
+        "name": "Azerbaijani",
+        "speakers": "32 million",
+        "region": "Azerbaijan, Iran",
+        "script": "Latin script, Cyrillic script",
+        "family": "Turkic",
+        "notes": "Official language of Azerbaijan and co-official in some regions of Iran.",
+        "officialStatus": "Official language of Azerbaijan and co-official in some Iranian regions.",
+        "languageCode": "az",
+        "dialects": [
+            "North Azerbaijani",
+            "South Azerbaijani",
+            "Iranian Azerbaijani"
+        ],
+        "relatedLanguages": [
+            "Turkish",
+            "Turkmen",
+            "Uzbek"
+        ],
+        "languageHistory": "Turkic language with influences from Persian and Arabic.",
+        "writingSystem": "Transitioned from Cyrillic to Latin script; also written in Persian script.",
+        "languageStatus": "Cultural significance in literature, media, and arts."
+    },
+    {
+        "id": 33,
+        "name": "Kannada",
+        "speakers": "31 million",
+        "region": "India",
+        "script": "Kannada script",
+        "family": "Dravidian",
+        "notes": "Major South Indian language with rich literary heritage.",
+        "officialStatus": "Official language of Karnataka state.",
+        "languageCode": "kn",
+        "dialects": [
+            "Dakshina Kannada",
+            "Coorgi",
+            "Havyaka"
+        ],
+        "relatedLanguages": [
+            "Telugu",
+            "Tamil",
+            "Malayalam"
+        ],
+        "languageHistory": "Ancient Dravidian language with classical literature.",
+        "writingSystem": "Kannada script with characters representing sounds and syllables.",
+        "languageStatus": "Cultural significance in literature, poetry, and music."
+    },
+    {
+        "id": 34,
+        "name": "Burmese",
+        "speakers": "30 million",
+        "region": "Myanmar",
+        "script": "Burmese script",
+        "family": "Sino-Tibetan",
+        "notes": "Official language of Myanmar and integral to its culture.",
+        "officialStatus": "Official language of Myanmar.",
+        "languageCode": "my",
+        "dialects": [
+            "Standard Burmese",
+            "Rakhine",
+            "Shan"
+        ],
+        "relatedLanguages": [
+            "Zhuang",
+            "Karen",
+            "Thai"
+        ],
+        "languageHistory": "Sino-Tibetan language with its own script; historical importance.",
+        "writingSystem": "Burmese script with complex characters.",
+        "languageStatus": "Cultural significance in literature, art, and religion."
+    },
+    {
+        "id": 35,
+        "name": "Sundanese",
+        "speakers": "28 million",
+        "region": "Indonesia",
+        "script": "Sundanese script, Latin script",
+        "family": "Austronesian",
+        "notes": "Prominent language in West Java, Indonesia.",
+        "officialStatus": "No official status, but widely spoken in West Java.",
+        "languageCode": "su",
+        "dialects": [
+            "Bantenese",
+            "Priangan",
+            "Cirebonese"
+        ],
+        "relatedLanguages": [
+            "Javanese",
+            "Balinese",
+            "Madurese"
+        ],
+        "languageHistory": "Austronesian language with unique script; cultural heritage.",
+        "writingSystem": "Sundanese script and Latin script for modern use.",
+        "languageStatus": "Cultural significance in traditional arts, music, and theater."
+    },
+    {
+        "id": 36,
+        "name": "Thai",
+        "speakers": "20 million",
+        "region": "Thailand",
+        "script": "Thai script",
+        "family": "Tai-Kadai",
+        "notes": "Official language of Thailand and significant in its culture.",
+        "officialStatus": "Official language of Thailand.",
+        "languageCode": "th",
+        "dialects": [
+            "Central Thai",
+            "Southern Thai",
+            "Northern Thai"
+        ],
+        "relatedLanguages": [
+            "Lao",
+            "Shan",
+            "Isan"
+        ],
+        "languageHistory": "Tai-Kadai language with its own script; influenced by Khmer.",
+        "writingSystem": "Thai script with complex characters and symbols.",
+        "languageStatus": "Cultural importance in literature, religion, and daily life."
+    },
+    {
+        "id": 37,
+        "name": "Greek",
+        "speakers": "15 million",
+        "region": "Greece, Cyprus",
+        "script": "Greek script",
+        "family": "Indo-European",
+        "notes": "Ancient language with a rich history in philosophy and literature.",
+        "officialStatus": "Official language in Greece and Cyprus.",
+        "languageCode": "el",
+        "dialects": [
+            "Attic Greek",
+            "Doric Greek",
+            "Koine Greek"
+        ],
+        "relatedLanguages": [
+            "Latin",
+            "Sanskrit",
+            "Armenian"
+        ],
+        "languageHistory": "Ancient Indo-European language with unique alphabet.",
+        "writingSystem": "Greek script with 24 letters and diacritics.",
+        "languageStatus": "Cultural significance in philosophy, arts, and science."
+    },
+    {
+        "id": 38,
+        "name": "Haitian Creole",
+        "speakers": "12 million",
+        "region": "Haiti",
+        "script": "Latin script",
+        "family": "Creole",
+        "notes": "Creole language with French influence and cultural importance.",
+        "officialStatus": "Co-official language of Haiti with French.",
+        "languageCode": "ht",
+        "dialects": [
+            "Standard Haitian Creole",
+            "Northern Haitian Creole",
+            "Southern Haitian Creole"
+        ],
+        "relatedLanguages": [
+            "French",
+            "Louisiana Creole",
+            "Papiamento"
+        ],
+        "languageHistory": "Developed as a creole from French; cultural and historical significance.",
+        "writingSystem": "Latin script with unique spellings influenced by French.",
+        "languageStatus": "Cultural importance in literature, music, and identity."
+    },
+    {
+        "id": 39,
+        "name": "Czech",
+        "speakers": "10 million",
+        "region": "Czech Republic",
+        "script": "Latin script",
+        "family": "Indo-European",
+        "notes": "Official language of the Czech Republic.",
+        "officialStatus": "Official language of the Czech Republic.",
+        "languageCode": "cs",
+        "dialects": [
+            "Central Bohemian",
+            "Moravian",
+            "Silesian"
+        ],
+        "relatedLanguages": [
+            "Slovak",
+            "Polish",
+            "Slovene"
+        ],
+        "languageHistory": "West Slavic language with a rich literary tradition.",
+        "writingSystem": "Alphabet with 42 letters and diacritics.",
+        "languageStatus": "Cultural significance in literature, film, and theater."
+    },
+    {
+        "id": 40,
+        "name": "Hakka Chinese",
+        "speakers": "10 million",
+        "region": "China, Taiwan, Southeast Asia",
+        "script": "Chinese characters",
+        "family": "Sino-Tibetan",
+        "notes": "Major dialect group within Chinese language.",
+        "officialStatus": "No official status, but spoken widely in various regions.",
+        "languageCode": "hak",
+        "dialects": [
+            "Sixian",
+            "Meixian",
+            "Raoping"
+        ],
+        "relatedLanguages": [
+            "Mandarin Chinese",
+            "Cantonese",
+            "Teochew"
+        ],
+        "languageHistory": "Sino-Tibetan language with unique phonology and vocabulary.",
+        "writingSystem": "Chinese characters common in the region.",
+        "languageStatus": "Cultural significance in overseas communities and regional identity."
+    },
+    {
+        "id": 41,
+        "name": "Chittagonian",
+        "speakers": "9 million",
+        "region": "Bangladesh, India",
+        "script": "Bengali script",
+        "family": "Indo-European",
+        "notes": "Major language in southeastern Bangladesh.",
+        "officialStatus": "No official status, but widely spoken in Chittagong region.",
+        "languageCode": "ctg",
+        "dialects": [
+            "Chittagonian",
+            "Noakhali",
+            "Sandwip"
+        ],
+        "relatedLanguages": [
+            "Bengali",
+            "Rohingya",
+            "Sylheti"
+        ],
+        "languageHistory": "Bengali-Assamese language with unique phonological features.",
+        "writingSystem": "Bengali script with additional characters.",
+        "languageStatus": "Cultural significance in local media, music, and folklore."
+    },
+    {
+        "id": 42,
+        "name": "Zulu",
+        "speakers": "9 million",
+        "region": "South Africa",
+        "script": "Latin script",
+        "family": "Bantu",
+        "notes": "Major Bantu language in Southern Africa.",
+        "officialStatus": "One of South Africa's 11 official languages.",
+        "languageCode": "zu",
+        "dialects": [
+            "Central Zulu",
+            "Southern Zulu",
+            "Northern Zulu"
+        ],
+        "relatedLanguages": [
+            "Xhosa",
+            "Swazi",
+            "Ndebele"
+        ],
+        "languageHistory": "Bantu language with complex noun class system.",
+        "writingSystem": "Latin script with diacritics for unique sounds.",
+        "languageStatus": "Cultural significance in literature, music, and education."
+    },
+    {
+        "id": 43,
+        "name": "Kinyarwanda",
+        "speakers": "9 million",
+        "region": "Rwanda, Uganda, Congo",
+        "script": "Latin script",
+        "family": "Bantu",
+        "notes": "Official language of Rwanda and integral to its culture.",
+        "officialStatus": "Official language of Rwanda.",
+        "languageCode": "rw",
+        "dialects": [
+            "Central Kinyarwanda",
+            "Northern Kinyarwanda",
+            "Southern Kinyarwanda"
+        ],
+        "relatedLanguages": [
+            "Kirundi",
+            "Ganda",
+            "Luganda"
+        ],
+        "languageHistory": "Bantu language with influences from neighboring languages.",
+        "writingSystem": "Latin script with diacritics for unique sounds.",
+        "languageStatus": "Cultural significance in literature, poetry, and music."
+    },
+    {
+        "id": 44,
+        "name": "Kazakh",
+        "speakers": "9 million",
+        "region": "Kazakhstan, Central Asia",
+        "script": "Cyrillic script, Latin script",
+        "family": "Turkic",
+        "notes": "Official language of Kazakhstan and vital to its identity.",
+        "officialStatus": "Official language of Kazakhstan.",
+        "languageCode": "kk",
+        "dialects": [
+            "Southern Kazakh",
+            "Northern Kazakh",
+            "Western Kazakh"
+        ],
+        "relatedLanguages": [
+            "Uzbek",
+            "Kyrgyz",
+            "Tatar"
+        ],
+        "languageHistory": "Turkic language with historical influences from Persian and Russian.",
+        "writingSystem": "Cyrillic script and transitioned to Latin script.",
+        "languageStatus": "Cultural significance in literature, media, and education."
+    },
+    {
+        "id": 45,
+        "name": "Hmong",
+        "speakers": "8 million",
+        "region": "China, Southeast Asia",
+        "script": "Latin script, Chinese characters",
+        "family": "Hmong-Mien",
+        "notes": "Diverse language spoken by Hmong ethnic group.",
+        "officialStatus": "No official status, spoken by Hmong communities.",
+        "languageCode": "hmn",
+        "dialects": [
+            "White Hmong",
+            "Green Hmong",
+            "Blue Hmong"
+        ],
+        "relatedLanguages": [
+            "Mien",
+            "Yao",
+            "Katu"
+        ],
+        "languageHistory": "Hmong-Mien language with variations among dialects.",
+        "writingSystem": "Latin script for modern use; also written in Chinese characters.",
+        "languageStatus": "Cultural significance in oral tradition, folklore, and diaspora."
+    },
+    {
+        "id": 46,
+        "name": "Swahili",
+        "speakers": "8 million",
+        "region": "East Africa",
+        "script": "Latin script",
+        "family": "Bantu",
+        "notes": "Widely spoken in East Africa and often used as a lingua franca.",
+        "officialStatus": "National and official language in several African countries.",
+        "languageCode": "sw",
+        "dialects": [
+            "Coastal Swahili",
+            "Kiunguja",
+            "Lamu"
+        ],
+        "relatedLanguages": [
+            "Zaramo",
+            "Chaga",
+            "Luganda"
+        ],
+        "languageHistory": "Bantu language with significant Arabic influence.",
+        "writingSystem": "Latin script with diacritics for vowel sounds.",
+        "languageStatus": "Cultural significance in trade, literature, and communication."
+    },
+    {
+        "id": 47,
+        "name": "Uyghur",
+        "speakers": "7 million",
+        "region": "China, Central Asia",
+        "script": "Uyghur script, Arabic script",
+        "family": "Turkic",
+        "notes": "Major Turkic language spoken by the Uyghur ethnic group.",
+        "officialStatus": "Official language of Xinjiang Uyghur Autonomous Region.",
+        "languageCode": "ug",
+        "dialects": [
+            "Southern Uyghur",
+            "Eastern Uyghur",
+            "Central Uyghur"
+        ],
+        "relatedLanguages": [
+            "Kazakh",
+            "Uzbek",
+            "Turkmen"
+        ],
+        "languageHistory": "Turkic language with significant influence from Persian and Arabic.",
+        "writingSystem": "Uyghur script based on Arabic script; also Cyrillic script.",
+        "languageStatus": "Cultural significance in literature, music, and identity."
+    },
+    {
+        "id": 48,
+        "name": "Sindhi",
+        "speakers": "7 million",
+        "region": "Pakistan, India",
+        "script": "Sindhi script, Arabic script",
+        "family": "Indo-European",
+        "notes": "Prominent language in the Sindh region of Pakistan.",
+        "officialStatus": "Official language of Sindh province, Pakistan.",
+        "languageCode": "sd",
+        "dialects": [
+            "Lari",
+            "Thari",
+            "Vicholi"
+        ],
+        "relatedLanguages": [
+            "Gujarati",
+            "Punjabi",
+            "Balochi"
+        ],
+        "languageHistory": "Indo-Aryan language with historical Persian and Arabic influence.",
+        "writingSystem": "Sindhi script with characters representing sounds and syllables.",
+        "languageStatus": "Cultural significance in literature, music, and media."
+    },
+    {
+        "id": 49,
+        "name": "Cebuano",
+        "speakers": "7 million",
+        "region": "Philippines",
+        "script": "Latin script",
+        "family": "Austronesian",
+        "notes": "Major language in the Philippines, especially in Visayas and Mindanao.",
+        "officialStatus": "No official status, but widely spoken and understood.",
+        "languageCode": "ceb",
+        "dialects": [
+            "Cebuano",
+            "Bisayan",
+            "Mindanao Cebuano"
+        ],
+        "relatedLanguages": [
+            "Hiligaynon",
+            "Waray",
+            "Tagalog"
+        ],
+        "languageHistory": "Austronesian language with regional variations and influences.",
+        "writingSystem": "Latin script with unique characters for sounds in Cebuano.",
+        "languageStatus": "Cultural significance in literature, music, and radio."
+    },
+    {
+        "id": 50,
+        "name": "Assamese",
+        "speakers": "6 million",
+        "region": "India",
+        "script": "Assamese script",
+        "family": "Indo-European",
+        "notes": "Prominent language in the Indian state of Assam.",
+        "officialStatus": "Official language of Assam state.",
+        "languageCode": "as",
+        "dialects": [
+            "Eastern Assamese",
+            "Western Assamese",
+            "Kamrupi"
+        ],
+        "relatedLanguages": [
+            "Bengali",
+            "Odia",
+            "Bodo"
+        ],
+        "languageHistory": "Indo-Aryan language with historical and literary significance.",
+        "writingSystem": "Assamese script with characters representing sounds and syllables.",
+        "languageStatus": "Cultural importance in literature, music, and theater."
+    }
+]
